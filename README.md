@@ -1,4 +1,5 @@
 # Frontend Mentor - QR code component
+# Completed FrontMentor Challenge
 
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
 
